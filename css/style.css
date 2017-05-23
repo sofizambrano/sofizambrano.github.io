@@ -1,0 +1,20 @@
+body {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    background-color: #ffffff;
+}
+
+.summary {
+    width: 50vw;
+    text-align: justify;
+}
+
+.img-circle {
+    border-radius: 50%;
+    height: 300px;
+    margin-top: 2.5em;
+}
+
+.social-media {
+    width: 42px;
+    height: 42px;
+}
