@@ -1,6 +1,10 @@
 body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    background-color: #ffffff;
+    background-color: #fefefe;
+}
+
+.cv-link {
+    color: #44ceb5;
 }
 
 .summary {
