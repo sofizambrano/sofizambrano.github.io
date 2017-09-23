@@ -5,20 +5,64 @@ body {
 
 .cv-link {
     color: #44ceb5;
+    font-size: 90%;
 }
 
 .summary {
     width: 50vw;
     text-align: justify;
+    font-size: 90%;
 }
 
 .img-circle {
-    border-radius: 50%;
+    border-radius: 85%;
     height: 300px;
-    margin-top: 2.5em;
+    margin-top: -1.4em;
 }
 
 .social-media {
     width: 42px;
     height: 42px;
+}
+
+.language-selector {
+    text-align: right;
+    margin-top: 0.1em;
+    margin-right: 0.2em;
+    font-size: 90%;
+    color: #7c7d7f;
+}
+
+.language-selector a:link {
+    text-decoration: none;
+    color: #7c7d7f;
+}
+
+.language-selector a:visited {
+    text-decoration: none;
+    color: #7c7d7f;
+}
+
+.language-selector a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: #7c7d7f;
+}
+
+.language-selector a:active {
+    text-decoration: none;
+    font-weight: bold;
+    color: #7c7d7f;
+}
+
+.flag {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    margin-bottom: 0.4em;
+}
+
+a.active {
+    font-weight: bold;
+    color: #000000;
 }
