@@ -1,5 +1,12 @@
+@font-face {
+	font-family: "brandon-grotesque-regular";
+	src:
+	url("./fonts/brandongrotesque-regular.otf") format("opentype"),
+	url("./fonts/brandongrotesque-regular-webfont.woff") format("woff");
+}
+
 body {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-family: "brandon-grotesque-regular", Helvetica, Arial, sans-serif;
     background-color: #fefefe;
 }
 
@@ -9,9 +16,9 @@ body {
 }
 
 .summary {
-    width: 60vw;
+    width: 70vw;
     text-align: justify;
-    font-size: 90%;
+    font-size: 100%;
 }
 
 .img-circle {
