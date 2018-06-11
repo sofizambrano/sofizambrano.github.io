@@ -15,8 +15,16 @@ body {
     font-size: 90%;
 }
 
+.cv-link:first-child {
+    padding-right: 5em;
+}
+
+.cv-links {
+    padding-bottom: 20px;
+}
+
 .summary {
-    width: 70vw;
+    width: 63vw;
     text-align: justify;
     font-size: 100%;
 }
