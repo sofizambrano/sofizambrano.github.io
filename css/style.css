@@ -24,7 +24,8 @@ body {
 }
 
 .summary {
-    width: 63vw;
+    width: 53vw;
+    max-width: 679px;
     text-align: justify;
     font-size: 100%;
 }
